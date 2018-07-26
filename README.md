@@ -1,3 +1,4 @@
+![8bitwork logo](https://8bitwork.com/wp-content/uploads/2018/07/8bitlogo2-1.png)
 # DIY
 This repository contains all code related to DIY projects published at https://8bitwork.com
 
